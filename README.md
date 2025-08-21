@@ -179,8 +179,8 @@ minimapColor _ = black
 <br>
 
 ## Referências
-https://code.world/haskell#PSAP49qms7Ahg4z1gpLm2Jw 
-https://stackoverflow.com/questions/4362328/haskell-where-vs-let
-https://wiki.haskell.org/index.php?title=Haskell
+https://code.world/haskell#PSAP49qms7Ahg4z1gpLm2Jw </n>
+https://stackoverflow.com/questions/4362328/haskell-where-vs-let </n>
+https://wiki.haskell.org/index.php?title=Haskell </n>
 https://haskell.tailorfontela.com.br/chapters
 
